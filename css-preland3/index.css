@@ -344,10 +344,10 @@ b-wrapper clear {  margin:0;}
 }
 @media screen and (max-width: 479px) {
 
-.b-center { width: 400px;}
-.b-wrapper { width: 400px; margin:0;}
-.content, #comments { width: 380px;}
-.b-article-text { width: 380px; }
+.b-center { width: 340px;}
+.b-wrapper { width: 340px; margin:0;}
+.content, #comments { width: 320px;}
+.b-article-text { width: 320px; }
 b-wrapper clear {  margin:0;}
 .b-sidebar {
 	display:none;
